@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/OOP.Console.Sample1/OOP.Console.Sample1.csproj",
+                "${workspaceFolder}/OOP.Sample1/OOP.Sample1.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -19,7 +19,7 @@
             "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/OOP.Console.Sample1/OOP.Console.Sample1.csproj",
+                "${workspaceFolder}/OOP.Sample1/OOP.Sample1.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -32,7 +32,7 @@
             "args": [
                 "watch",
                 "run",
-                "${workspaceFolder}/OOP.Console.Sample1/OOP.Console.Sample1.csproj",
+                "${workspaceFolder}/OOP.Sample1/OOP.Sample1.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],

@@ -9,9 +9,9 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/OOP.Console.Sample1/bin/Debug/netcoreapp3.1/OOP.Console.Sample1.dll",
+            "program": "${workspaceFolder}/OOP.Sample1/bin/Debug/netcoreapp3.1/OOP.Sample1.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/OOP.Console.Sample1",
+            "cwd": "${workspaceFolder}/OOP.Sample1",
             "console": "internalConsole",
             "stopAtEntry": false
         },

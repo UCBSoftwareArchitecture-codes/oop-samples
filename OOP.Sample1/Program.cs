@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace OOP
+namespace OOP.Sample1
 {
     class Program
     {
