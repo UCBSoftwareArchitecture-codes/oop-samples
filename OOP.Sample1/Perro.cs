@@ -1,6 +1,6 @@
 namespace OOP.Sample1
 {
-    public class Perro : Animal, ICuadrupedo, IMamifero
+    public class Perro : Animal, ICuadrupedo
     {
 
         private string _estadoDeAnimo;
@@ -12,7 +12,7 @@ namespace OOP.Sample1
 
         public Perro()
         {
-            _estadoDeAnimo="neutro";
+            _estadoDeAnimo="triste";
             Edad=2;
         }
 
